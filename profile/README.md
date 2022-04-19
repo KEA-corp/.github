@@ -6,7 +6,7 @@
     </td>
     <td>
         <a href="https://kea-corp.github.io/stream">
-            <img src="https://kea-corp.github.io/logo/kea_stream.png" align="center"/>
+            <img src="https://kea-corp.github.io/logo/kea_stream.png" align="center">
         </a>
     </td>
 </table>
